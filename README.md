@@ -13,18 +13,23 @@
 
 プログラムを実行するには以下の形式でコマンドライン引数を指定してください。
 
-```bash
+
 - **reverse**
+```bash
 python file_manipulator.py reverse input.txt output.txt
-
+```
 - **copy**
+```bash
 python file_manipulator.py copy input.txt output.txt
-
+```
 - **duplicate**
+```bash
 python file_manipulator.py duplicate input.txt n
-
+```
 - **replace**
+```bash
 python file_manipulator.py replace input.txt old_string new_string
+```
 
 #### 使用技術
 <p style="display: inline">
